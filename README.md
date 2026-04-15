@@ -1,6 +1,6 @@
 # Beverage Sales Dashboard - Power BI
 
-![Beverage Sales Dashboard](./Sales%Dashboard.png)
+![Beverage Sales Dashboard](./Sales%20Dashboard.png)
 
 ## 📋 Project Overview
 
